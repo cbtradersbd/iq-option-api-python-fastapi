@@ -1,6 +1,6 @@
 import requests
 
-BASE_URL = "https://api1.api.cbtraderbd.xyz"
+BASE_URL = "https://api1.api.cbtradersbd.com"
 
 def get_iqoption_live_price(asset="EURUSD"):
     try:
